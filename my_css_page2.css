@@ -1,0 +1,33 @@
+/*--------Page title-----------*/
+.title{
+    text-align: left; 
+    font-size: 35px;
+}
+
+/*--------Page text-----------*/
+.textLeft{
+    float: left;
+    margin-left: 2%; 
+    width: 45%; 
+    text-align: justify;
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 20px; 
+    margin-bottom: 30px;
+}
+.textRight{
+   float: right; 
+   margin-right: 2%; 
+   width: 45%; 
+   text-align: justify; 
+   font-family: 'Source Sans Pro', sans-serif; 
+   font-size: 20px; 
+   margin-bottom: 30px;
+}
+
+/*--------Page images-----------*/
+.images{
+    float:left; 
+    width:23%; 
+    padding-left: 1.5%;
+}
+
